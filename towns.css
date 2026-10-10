@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik');
-
+// Rewritten from the original CSS file to use the Rubik font and improve styling for the towns application.
 body {
 	font-family: 'Rubik', sans-serif;
 }
