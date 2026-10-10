@@ -32,6 +32,7 @@ function showMessage(msg) {
         $('#result').fadeOut(500);
     }, 3000);
 }
+// Function to shuffle the towns in the select element
 function shuffleTowns() {
 	let towns = $('#towns option').toArray();
 	$('#towns').empty();
